@@ -32,7 +32,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/empathy-logo.svg
+      url: /images/001-ELRH-Logo.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
