@@ -9,9 +9,11 @@ sections:
       type: TitleBlock
     subtitle: The Linguistics Lab at Carleton University
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Welcome to the Linguistics Lab at Carleton University, where we
+      investigate how language works—from the structure of sound systems to the
+      cognitive processes behind communication. Directed by Professor Bethany
+      MacLeod, our team of researchers and students explores phonetics,
+      phonology, morphology, and syntax across a variety of languages.
     actions:
       - label: Get started
         altText: ''
