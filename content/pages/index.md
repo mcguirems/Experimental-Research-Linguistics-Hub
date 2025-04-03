@@ -33,7 +33,7 @@ sections:
         type: Link
     media:
       url: /images/001-ELRH-Logo.jpg
-      altText: Unblock your team boost your time to production preview
+      altText: New Lab!
       elementId: ''
       type: ImageBlock
     badge:
