@@ -34,8 +34,8 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/001-ELRH-Logo.jpg
-      altText: New Lab!
+      url: /images/001-ELRH-Logo-400x400.jpg
+      altText: New Lab !
       elementId: ''
       type: ImageBlock
     badge:
