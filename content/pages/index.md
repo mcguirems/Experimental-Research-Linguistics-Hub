@@ -15,7 +15,7 @@ sections:
       MacLeod, our team of researchers and students explores phonetics,
       phonology, morphology, and syntax across a variety of languages.
     actions:
-      - label: Get started
+      - label: View our latest publications
         altText: ''
         url: /
         showIcon: false
