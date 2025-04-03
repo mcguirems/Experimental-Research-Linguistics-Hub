@@ -7,7 +7,7 @@ sections:
       text: Exploring the Patterns of Human Language
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: The Linguistics Lab at Carleton University
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
